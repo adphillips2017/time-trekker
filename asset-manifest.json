@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/time-trekker/static/css/main.e31dec96.css",
+    "main.js": "/time-trekker/static/js/main.2937b8cc.js",
+    "static/js/787.7a048444.chunk.js": "/time-trekker/static/js/787.7a048444.chunk.js",
+    "index.html": "/time-trekker/index.html",
+    "main.e31dec96.css.map": "/time-trekker/static/css/main.e31dec96.css.map",
+    "main.2937b8cc.js.map": "/time-trekker/static/js/main.2937b8cc.js.map",
+    "787.7a048444.chunk.js.map": "/time-trekker/static/js/787.7a048444.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31dec96.css",
+    "static/js/main.2937b8cc.js"
+  ]
+}
